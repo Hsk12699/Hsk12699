@@ -37,7 +37,7 @@ I'm currently working on an exciting, large-scale project that I can't share pub
   <img src="https://github.com/user-attachments/assets/b89ef718-1c49-46ac-b85e-0cb030f6aa84" alt="Figma" width="100px">
   <img src="https://github.com/user-attachments/assets/1e89838e-2acc-4d32-9734-cfdf9ffe344b" alt="Git" width="100px">
   <img src="https://github.com/user-attachments/assets/db542e04-68d4-4209-98bf-e010d487a09f" alt="Firebase" width="100px">
-  <img src="https://github.com/user-attachments/assets/0faa75ac-26c2-454f-bb89-794cec3ee5e5" alt="Blender" width="100px">
+  <img src="https://github.com/user-attachments/assets/2c618147-c910-4fe8-9e13-2c3b8edab0a1" alt="Blender" width="100px">
   <img src="https://github.com/user-attachments/assets/05dba4f0-a17b-47df-bd8d-ffdc77531490" alt="VS Code" width="100px">
   <img src="https://github.com/user-attachments/assets/38a45ac2-254d-4f5a-a2fc-3ea51736f554" alt="LinkedIn" width="100px">
   <img src="https://github.com/user-attachments/assets/47244723-1161-431a-bc88-292c9cc972b0" alt="Windows" width="100px">
