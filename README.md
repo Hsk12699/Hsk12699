@@ -3,7 +3,7 @@
 - I'm a passionate **Electronics and Communication Engineering** student with a flair for **Software Development**, **Web Development** and **Mobile Application Development** 📱💻.
 - I enjoy learning new things and enjoy Creating innovative solutions and contributing to projects that make a difference 🌱.
 - Always a **PERFECTIONIST**, **QUICK LEARNER** and a **CREATIVE THINKER** 🤔💡.
-- I'm inspired by the sleek designs and user-centric experiences of brands like `Rolls-Royce` 🚗 and `Apple` 🍏, aiming to bring the same level of excellence to my projects as a UI/UX Designer, Web and Mobile App Developer.
+- I'm inspired by the sleek designs and user-centric experiences of brands like `Apple` 🍏, aiming to bring the same level of excellence to my projects as a UI/UX Designer, Web and Mobile App Developer.
 - Digital and Analog Ciruit Designer ⚡🔌 | UI/UX Designer 🎨 | Blender Artist 🎥 | Web Developer 🌐 | Mobile Application Developer 📲.
 
 ## 🚧 Big Things in Progress 🚧
