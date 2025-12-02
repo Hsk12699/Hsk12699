@@ -6,8 +6,8 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master
       - main
+      - master
 
 jobs:
   build:
@@ -15,8 +15,10 @@ jobs:
     name: Cards Generator
     steps:
       - uses: actions/checkout@v3
+
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Hsk12699
+          OUTPUT_BRANCH: summary-cards   # <--- IMPORTANT FIX
