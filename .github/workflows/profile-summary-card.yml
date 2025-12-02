@@ -21,4 +21,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Hsk12699
-          OUTPUT_BRANCH: summary-cards   # <--- IMPORTANT FIX
+          OUTPUT_BRANCH: summary-cards
