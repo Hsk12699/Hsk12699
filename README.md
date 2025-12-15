@@ -1,10 +1,12 @@
 ## About Me
 - Hi, I'm Hari.S.K 👋👨‍💻
-- I'm a passionate **Electronics and Communication Engineering** student with a flair for **Software Development**, **Web Development** and **Mobile Application Development** 📱💻.
-- I enjoy learning new things and enjoy Creating innovative solutions and contributing to projects that make a difference 🌱.
+- I am traveling towards understanding what it means to be an employee at a **Product-Based Company**.
+- I believe in focusing on one thing at a time—diving deep, staying consistent, and trusting the journey to shape the rest.
+- I enjoy learning new things and creating **innovative solutions**, while contributing to projects that make a real impact 🌱.
 - Always a **PERFECTIONIST**, **QUICK LEARNER** and a **CREATIVE THINKER** 🤔💡.
-- I'm inspired by the sleek designs and user-centric experiences of brands like `Apple` 🍏, aiming to bring the same level of excellence to my projects as a UI/UX Designer, Web and Mobile App Developer.
-- Digital and Analog Ciruit Designer ⚡🔌 | UI/UX Designer 🎨 | Blender Artist 🎥 | Web Developer 🌐 | Mobile Application Developer 📲.
+- Enjoy building full-stack apps and experimenting with ML & AI ideas.
+- I'm inspired by the sleek designs and user-centric experiences of brands like `Apple` 🍏, aiming to bring the same level of excellence to my projects as Developer.
+- Artist | UI/UX Designer | Programmer | Software Developer.
 
 <div>
   <h2>Programming Languages & Frameworks</h2>
