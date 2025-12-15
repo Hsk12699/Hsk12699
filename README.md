@@ -6,22 +6,23 @@
 - I'm inspired by the sleek designs and user-centric experiences of brands like `Apple` 🍏, aiming to bring the same level of excellence to my projects as a UI/UX Designer, Web and Mobile App Developer.
 - Digital and Analog Ciruit Designer ⚡🔌 | UI/UX Designer 🎨 | Blender Artist 🎥 | Web Developer 🌐 | Mobile Application Developer 📲.
 
-## 🚧 Big Things in Progress 🚧
-I'm currently working on an exciting, large-scale project that I can't share publicly at the moment. Stay tuned for updates! 📈✨  
-
 <div>
   <h2>Programming Languages & Frameworks</h2>
   <img src="https://github.com/user-attachments/assets/a5a7b2f8-ff27-4be5-b8c4-61376400c5f1" alt="Python" width="50px">
-  <img src="https://github.com/user-attachments/assets/5102235a-152d-463d-abbf-8e1a31ec4f95" alt="JavaScript" width="50px">
-  <img src="https://github.com/user-attachments/assets/6084b122-6b76-4e9b-b286-ab47629a2169" alt="HTML" width="50px">
-  <img src="https://github.com/user-attachments/assets/a44b0344-524a-4602-a8cd-04fa1fc748fa" alt="LCSS" width="50px">
-  <img src="https://github.com/user-attachments/assets/0769aba9-11f1-4ca8-a1a8-e8764bd5fee3" alt="Kotlin" width="50px">
-  <img src="https://github.com/user-attachments/assets/d0f124bf-45fc-4c73-a308-aae386494bee" alt="MySQL" width="50px">
-  <img src="https://github.com/user-attachments/assets/3bc96236-cedf-409a-84f8-9f3064b5d2f6" alt="SQLite" width="50px">
   <img src="https://github.com/user-attachments/assets/0d05edad-eb56-46b4-bfbb-83530ef77bc4" alt="C" width="50px">
   <img src="https://github.com/user-attachments/assets/a87a376f-30dd-434c-aa7f-06ebe1a663f3" alt="C++" width="50px">
-  <img src="https://github.com/user-attachments/assets/b3281786-4472-4ac8-bb63-0db0b47981c0" alt="React.js" width="50px">
+  <img src="https://github.com/user-attachments/assets/6084b122-6b76-4e9b-b286-ab47629a2169" alt="HTML" width="50px">
+  <img src="https://github.com/user-attachments/assets/a44b0344-524a-4602-a8cd-04fa1fc748fa" alt="CSS" width="50px">
+  <img src="https://github.com/user-attachments/assets/5102235a-152d-463d-abbf-8e1a31ec4f95" alt="JavaScript" width="50px">
+  <img src="https://github.com/user-attachments/assets/d0f124bf-45fc-4c73-a308-aae386494bee" alt="MySQL" width="50px">
+  <img src="https://github.com/user-attachments/assets/3bc96236-cedf-409a-84f8-9f3064b5d2f6" alt="SQLite" width="50px">
+  <img src="https://github.com/user-attachments/assets/0769aba9-11f1-4ca8-a1a8-e8764bd5fee3" alt="Kotlin" width="50px">
+  <img src="https://github.com/user-attachments/assets/2415b237-f78d-4c84-82f3-44843514c020" alt="bash" width="50px">
+  <img src="https://github.com/user-attachments/assets/5f687dd1-8b90-4d21-b593-6aec36a24e24" alt="Typescript" width="50px">
   </br>
+  <img src="https://github.com/user-attachments/assets/97312252-8ce4-47b6-8954-3816832d904c" alt="Tailwind CSS" width="50px">
+  <img src="https://github.com/user-attachments/assets/175bce6c-104c-445e-9846-8454b5ee4580" alt="DRF" width="50px">
+  <img src="https://github.com/user-attachments/assets/b3281786-4472-4ac8-bb63-0db0b47981c0" alt="React.js" width="50px">
   <img src="https://github.com/user-attachments/assets/f1d657cf-6f38-4f02-98db-2e6723017afb" alt="Flutter" width="50px">
   <img src="https://github.com/user-attachments/assets/80fe63f0-7bd1-4ada-bf32-4b4c306242a5" alt="Tensorflow" width="50px">
   <img src="https://github.com/user-attachments/assets/34e1c0bf-23b0-4d82-96d3-ef15b70b3d8a" alt="Meterial UI" width="50px">
