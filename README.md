@@ -65,8 +65,12 @@ I'm currently working on an exciting, large-scale project that I can't share pub
 
 ### GitHub Contribution Graph
 ***
-![snake gif](https://raw.githubusercontent.com/Hsk12699/Hsk12699/output/github-contribution-grid-snake-dark.svg)
+[![Hari's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hsk12699&theme=github-dark)](https://github.com/Ashrockzzz2003)
 
 ### GitHub Stats
 ***
-![GitHub Streak](https://streak-stats.demolab.com/?user=Hsk12699&theme=dark)
+![Hari's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsk12699&show_icons=true&theme=dark&hide_border=false)
+
+
+[![GitHub Streak](https://github-readme-streak-stats-two-blush.vercel.app?user=hsk12699&theme=dark)](https://git.io/streak-stats)
+
