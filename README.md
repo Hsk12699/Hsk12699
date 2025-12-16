@@ -20,8 +20,8 @@
   <img src="https://github.com/user-attachments/assets/3bc96236-cedf-409a-84f8-9f3064b5d2f6" alt="SQLite" width="50px">
   <img src="https://github.com/user-attachments/assets/0769aba9-11f1-4ca8-a1a8-e8764bd5fee3" alt="Kotlin" width="50px">
   <img src="https://github.com/user-attachments/assets/2415b237-f78d-4c84-82f3-44843514c020" alt="bash" width="50px">
-  <img src="https://github.com/user-attachments/assets/5f687dd1-8b90-4d21-b593-6aec36a24e24" alt="Typescript" width="50px">
   </br>
+  <img src="https://github.com/user-attachments/assets/5f687dd1-8b90-4d21-b593-6aec36a24e24" alt="Typescript" width="50px">
   <img src="https://github.com/user-attachments/assets/97312252-8ce4-47b6-8954-3816832d904c" alt="Tailwind CSS" width="50px">
   <img src="https://github.com/user-attachments/assets/175bce6c-104c-445e-9846-8454b5ee4580" alt="DRF" width="50px">
   <img src="https://github.com/user-attachments/assets/b3281786-4472-4ac8-bb63-0db0b47981c0" alt="React.js" width="50px">
