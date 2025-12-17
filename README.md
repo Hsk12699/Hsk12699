@@ -1,6 +1,6 @@
 ## About Me
 - Hi, I'm Hari.S.K 👋👨‍💻
-- I am traveling towards understanding what it means to be an employee at a **Product-Based Company**.
+- I am actively developing the mindset and skills required to be an engineer at a **Product-Based Company**.
 - I believe in focusing on one thing at a time—diving deep, staying consistent, and trusting the journey to shape the rest.
 - I enjoy learning new things and creating **innovative solutions**, while contributing to projects that make a real impact 🌱.
 - Always a **PERFECTIONIST**, **QUICK LEARNER** and a **CREATIVE THINKER** 🤔💡.
